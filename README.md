@@ -4,7 +4,7 @@
 
 Un outil gratuit pour generer du faux texte en breton authentique, destine aux developpeurs et designers.
 
-[Demo en ligne](https://goeloGen.vercel.app/)
+[Demo en ligne](https://goelo-gen.vercel.app/fr)
 
 ---
 
